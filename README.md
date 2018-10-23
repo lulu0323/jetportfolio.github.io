@@ -1,2 +1,2 @@
-# jetportfolio.github.io
-Luo's brife portfolio
+# Hello, I'm Weizhou Luo
+Human-Computer Interaction Researcher
